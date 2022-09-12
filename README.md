@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **work.arnavchhokra@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arnav-chhokra-020736217/](https://www.linkedin.com/in/arnav-chhokra-020736217/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/arnav-chhokra/](https://www.linkedin.com/in/arnav-chhokra/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
