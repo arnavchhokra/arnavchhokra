@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on a Globally verifiable certification system using Blockchain
 
-- 🌱 I’m currently learning **React, Firebase, Swift, Solidity**
+- 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **C++, Swift, Python**
+- 💬 Ask me about **C++, React, Python**
 
 - 📫 How to reach me **work.arnavchhokra@gmail.com**
 
