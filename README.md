@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arnavchhokra/](https://www.linkedin.com/in/arnavchhokra/)
 
-- 📄 Want to hire me? [https://www.apnavchhokra.vercel.app](www.arnavchhokra.vercel.app)
+- 📄 Want to hire me? [https://www.arnavchhokra.vercel.app/](https://www.arnavchhokra.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
