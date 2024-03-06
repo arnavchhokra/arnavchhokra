@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavchhokra&label=Profile%20views&color=0e75b6&style=flat" alt="arnavchhokra" /> </p>
 
-- 🔭 I’m currently working on a Globally verifiable certification system using Blockchain
+- 🔭 I’m currently working on Langchain & Web Scraping
 
 - 🌱 I’m currently learning **Solidity**
 
