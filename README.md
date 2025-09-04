@@ -2,13 +2,6 @@
 <h3 align="center">On a path to discover what tools suit me the most.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavchhokra&label=Profile%20views&color=0e75b6&style=flat" alt="arnavchhokra" /> </p>
-
-- 🔭 I’m currently working on Langchain & Web Scraping
-
-- 🌱 I’m currently learning **Solidity**
-
-- 💬 Ask me about **C++, React, Python**
-
 - 📫 How to reach me **work.arnavchhokra@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arnavchhokra/](https://www.linkedin.com/in/arnavchhokra/)
